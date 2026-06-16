@@ -11,7 +11,7 @@ Second-year Computer Science student focused on:
 - Agentic AI Engineering  
 - Autonomous Multi-Agent Systems  
 - FastAPI & Backend Architecture  
-- MAANG-level Software Engineering  
+- MANGOS-level Software Engineering  
 
 I design structured systems that plan, execute, and scale.
 
