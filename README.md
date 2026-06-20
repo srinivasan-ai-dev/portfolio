@@ -12,7 +12,7 @@ Second-year Computer Science student focused on:
 - Autonomous Multi-Agent Systems  
 - FastAPI & Backend Architecture  
 - MANGOS-level Software Engineering  
-
+- Right now preparing for Google summer Internship 2027
 I design structured systems that plan, execute, and scale.
 
 ---
