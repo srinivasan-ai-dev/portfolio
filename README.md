@@ -21,7 +21,7 @@ I design structured systems that plan, execute, and scale.
 ## 🛠 Tech Stack
 
 **Backend:** Python, FastAPI, Async Programming  
-**Database:** PostgreSQL  
+**Database:** PostgreSQL. MongoDB
 **AI / Agents:** LLM APIs, Tool Calling, Memory Systems, Multi-Agent Flows  
 **Frontend:** HTML, CSS (Flexbox, Grid)
 
