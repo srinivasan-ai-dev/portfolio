@@ -7,7 +7,6 @@
 ## 🚀 About
 
 Second-year Computer Science student focused on:
-
 - Agentic AI Engineering  
 - Autonomous Multi-Agent Systems  
 - FastAPI & Backend Architecture  
